@@ -15,3 +15,7 @@ https://scratch.mit.edu/projects/1050222732/
 destroy enemys
 with yo towers
 
+![Screenshot 2024-07-27 7 31 32 AM](https://github.com/user-attachments/assets/184fb8b8-4bff-47b3-8010-25fcfec7da96)
+
+buy towers and upgrade dem
+
